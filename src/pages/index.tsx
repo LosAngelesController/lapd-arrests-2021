@@ -137,7 +137,7 @@ var raceOptions = [
   },
 ];
 
-var total = 66815;
+var total = 66814;
 
 const Home: NextPage = () => {
   const shouldfilteropeninit =
@@ -1139,11 +1139,11 @@ const Home: NextPage = () => {
                       <div className="grow font-semibold">
                         <span className="text-red-400">*</span>
                         {filterrace === "all" && (
-                          <span>66,815 Total Arrests (100%)</span>
+                          <span>66,814 Total Arrests (100%)</span>
                         )}
                         {filterrace !== "all" && (
                           <span>
-                            {filtercount.toLocaleString()} of 66,815 Total
+                            {filtercount.toLocaleString()} of 66,814 Total
                             Arrests (
                             {((filtercount / total) * 100).toFixed(2) + "%"})
                           </span>
