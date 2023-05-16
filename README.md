@@ -1,4 +1,4 @@
-# LAPD Arrests 2022 - Mapped
+# LAPD Arrests 2021 - Mapped
 
 ## Arrests Filtered by Race, Area, and Arrest Type
 
