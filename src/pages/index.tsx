@@ -302,7 +302,7 @@ const Home: NextPage = () => {
 
     var mapparams: any = {
       container: divRef.current, // container ID
-      style: "mapbox://styles/kennethmejia/clhp5ghsj00nk01rh2yy60h38", // style URL (THIS IS STREET VIEW)
+      style: "mapbox://styles/kennethmejia/clhpk8uso00bd01rf4m4j78yd", // style URL (THIS IS STREET VIEW)
       center: [-118.41, 34], // starting position [lng, lat]
       zoom: formulaForZoom(), // starting zoom
     };
