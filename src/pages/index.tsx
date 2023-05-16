@@ -753,7 +753,7 @@ const Home: NextPage = () => {
               "line-width": 2,
             },
           },
-          "road-label-navigation"
+          "road-label-simple"
         );
 
         map.addSource("citycouncildist", {
@@ -772,7 +772,7 @@ const Home: NextPage = () => {
               "line-width": 1.5,
             },
           },
-          "road-label-navigation"
+          "road-label-simple"
         );
 
         map.addLayer(
@@ -785,7 +785,7 @@ const Home: NextPage = () => {
               "fill-opacity": 0,
             },
           },
-          "road-label-navigation"
+          "road-label-simple"
         );
 
         map.on("mousedown", "councildistrictsselectlayer", (e: any) => {
@@ -824,7 +824,7 @@ const Home: NextPage = () => {
               "fill-opacity": 0.15,
             },
           },
-          "road-label-navigation"
+          "road-label-simple"
         );
       }
 
