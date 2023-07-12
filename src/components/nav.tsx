@@ -99,7 +99,7 @@ function Nav() {
                   </Disclosure.Button>
                 </div>
                 <div className="grid content-center ml-2">
-                  <strong className="text-white">LAPD Arrests 2022</strong>
+                  <strong className="text-white">LAPD Arrests 2021</strong>
                 </div>
               </div>
               <div className="hidden sm:ml-4 sm:block lg:ml-6">
