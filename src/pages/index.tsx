@@ -988,25 +988,6 @@ const Home: NextPage = () => {
         withNormalizeCSS
       >
         <Head>
-          <link
-            rel="icon"
-            href="https://mejiaforcontroller.com/wp-content/uploads/2020/12/cropped-favicon-1-32x32.png"
-            sizes="32x32"
-          />
-          <link
-            rel="icon"
-            href="https://mejiaforcontroller.com/wp-content/uploads/2020/12/cropped-favicon-1-192x192.png"
-            sizes="192x192"
-          />
-          <link
-            rel="apple-touch-icon"
-            href="https://mejiaforcontroller.com/wp-content/uploads/2020/12/cropped-favicon-1-180x180.png"
-          />
-          <meta
-            name="msapplication-TileImage"
-            content="https://mejiaforcontroller.com/wp-content/uploads/2020/12/cropped-favicon-1-270x270.png"
-          />
-
           <meta charSet="utf-8" />
           <meta
             name="viewport"
