@@ -30,7 +30,7 @@ const navigation: any = [
   },
   {
     name: "2022",
-    href: "https://2022arrests.lacontroller.io/",
+    href: "https://arrests.lacontroller.io/",
     target: "_blank",
   },
   {
